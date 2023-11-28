@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 
 def answer_me():
-    openai.api_key = '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'
+    openai.api_key = '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'
     # relevant_words = ('food,diet,nutrition,healthy,calories,recipe,meal,vegetables,fruit,protein,carbohydrates,fat,vitamins,minerals,weight,eating,cooking,organic,gluten-free,vegan').split(",")
 
     a = 0
